@@ -34,7 +34,6 @@ conclusions can be drawn about this relationship?
 
 1. Create a `sample_data` directory and download data from the link above
 ```
-mkdir sample_data
 cd sample_data
 curl https://hri.fi/data/en_GB/dataset/matkustaja-alusten-aikataulu-liikennointi-ja-sijaintitietoja-helsingin-ja-tallinnan-valilla/resource/6750998b-c488-49c7-a303-8973a63916d6
 ```
